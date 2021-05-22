@@ -1,2 +1,2 @@
-# Mi configuración de neovim para windows 10
+# Mi configuración de neovim
 
